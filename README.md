@@ -40,4 +40,5 @@ Open four terminals and in each one run:
 ./client 4 400
 ```
 
-![sample_run](sample_run.jpg)
+![Screenshot_TCP_Running](https://user-images.githubusercontent.com/108601032/230708179-28d71f70-2114-4587-99f4-1d25088f549c.PNG)
+
